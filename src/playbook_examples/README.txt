@@ -9,7 +9,7 @@ playbook. It's stale information, but still informative.
 
 This code taken from
 https://gist.github.com/phred/2897937
-
+https://www.youtube.com/watch?v=w8fOEEMqpOw&index=2&list=PL4RO-bYthnmqTBhTN2VHBpzInSbSNIUHs 
 The license is unclear but all attribution should be to Fred Alger (https://gist.github.com/phred)
 
 Examples
