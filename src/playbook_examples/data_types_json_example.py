@@ -1,4 +1,4 @@
-"""Data types explanation: Python <-> JSON"""
+"""Data types explanation: Python  <-> JSON"""
 
 import json
 import pprint
