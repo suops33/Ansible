@@ -5,7 +5,7 @@
 """Example 01: Basic access to AWS machine
 
 This is only a placeholder to help new participants understand the
-ommand on how to access their AWS machine. They will need to have two
+ommand on how to access their AWS machine.  They will need to have two
 things:
 
   1) The IP address of the machine created
