@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # pylint: disable=W0621,C0103
 
-"""Example 02: Automatically update system packages
+"""Example 02: Automatically  update system packages
 
 This is only a placeholder to help new participants understand how
 remote ssh commands are executed. Like the previous exercise, they will need to
