@@ -2,7 +2,7 @@
 - include: demo_playbook_iter_05.yml our_desired_package_name=nginx
 - hosts: webservers
   vars:
-     demo_message: 'Hello World (of course)'
+     demo_message: 'Hello  World (of course)'
   handlers:
   - name: print-or-not
     debug: msg='Message is {{ demo_message }}'
