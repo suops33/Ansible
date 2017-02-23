@@ -1,4 +1,4 @@
-"""Data types explanation: YAML -> Python"""
+"""Data types explanation: YAML  -> Python"""
 
 import yaml
 import pprint
